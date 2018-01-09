@@ -1,0 +1,19 @@
+{
+	"ui5lab.wordcloud": {
+		"icon": "sap-icon://tag-cloud-chart",
+		"name": "Word Cloud",
+		"description": "Library with control for displaying word clouds",
+		"content": {
+			"WordCloud":{
+				"id": "WordCloud",
+				"type": "control",
+				"version": 1.0,
+				"samples": [{
+					"id": "WordCloud",
+					"name": "Word Cloud",
+					"description": "Simple word cloud with default options."
+				}]
+			}
+		}
+	}
+}
