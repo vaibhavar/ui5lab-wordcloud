@@ -4,7 +4,7 @@ module.exports = function(grunt) {
 
 	grunt.initConfig({
 
-		libraryName: 'ui5lab.geometry',
+		libraryName: 'ui5lab.wordcloud',
 
 		dir: {
 			src: 'src',
