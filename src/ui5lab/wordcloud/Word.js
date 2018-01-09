@@ -8,7 +8,8 @@ sap.ui.define(['jquery.sap.global', './library', 'sap/ui/core/Element'],
                         type: "string"
                     },
                     weight: {
-                        type: "int"
+                        type: "int",
+                        defaultValue: 1
                     },
                     icon: {
                         type: "sap.ui.core.URI"

@@ -80,7 +80,7 @@ sap.ui.define([],
                         iDeg = plusOrMinus * ((Math.random() * 100) % 10);
                     }
 
-                    var iIndex = Math.floor(((oWord.getWeight() - iMin) / (iMax - iMin)) * aFontSizes.length);
+                    var iIndex = Math.floor(((oWord.getWeight() - iMin) / (iMax - iMin)) *  (aFontSizes.length - 1));
                     var sColor = aColors[Math.floor(Math.random() * 100) % aColors.length];
                     var iFontSize = aFontSizes[iIndex] + 6;
                     oRm.write("<span");
