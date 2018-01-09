@@ -1,6 +1,6 @@
 {
   "name": "ui5lab-wordcloud",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "Vaibhav Arora",
   "description": "Wordcloud library for UI5Lab",
   "license" : "MIT",
