@@ -33,4 +33,4 @@ Start grunt build
  npm start
 ~~~~
 
-Once the built has completed, open up the [link](http://localhost:8083/test-resources/ui5lab/browser/index.html "UI5Lab browser sample") in your browser and you should see ui5lab.wordcloud library added in the list.
+Once the built has completed, open up the UI5Lab browser sample ([link](http://localhost:8083/test-resources/ui5lab/browser/index.html "UI5Lab browser sample")) in your browser and you should see ui5lab.wordcloud library added in the list.
