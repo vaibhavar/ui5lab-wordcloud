@@ -14,7 +14,7 @@ sap.ui.define(['jquery.sap.global', './library', 'sap/ui/core/Control'],
          * @param {object} [mSettings] initial settings for the new control
          *
          * @class
-         * WordClouds are awesome geometrical shapes that are under-represented in today's modern UIs
+         * WordClouds are fun way to display a set of words/tags
          * @extends sap.ui.core.Control
          *
          * @public
