@@ -1,13 +1,13 @@
 {
   "name": "ui5lab-wordcloud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Vaibhav Arora",
   "description": "Wordcloud library for UI5Lab",
-  "license" : "MIT",
+  "license": "MIT",
   "private": false,
-  "repository" : {
-      "type" : "git",
-      "url" : "https://github.com/vaibhavar/ui5lab-wordcloud.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaibhavar/ui5lab-wordcloud.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified. Please add some.\" && exit 1",
@@ -15,7 +15,7 @@
     "start": "grunt"
   },
   "devDependencies": {
-    "bower": "^1.8.0",
+    "bower": "^1.8.4",
     "grunt": "^1.0.1",
     "grunt-contrib-clean": "^1.0.0",
     "grunt-contrib-connect": "^1.0.2",
