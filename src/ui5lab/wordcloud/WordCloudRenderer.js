@@ -95,7 +95,6 @@ sap.ui.define([],
                     oRm.writeStyles();
                     oRm.write(">");
                     if (oWord.getIcon()) {
-                        debugger;
                         oRm.renderControl(new sap.ui.core.Icon({src: oWord.getIcon(), size: iFontSize+"px", color: sColor}));
                     }
                     oRm.writeEscaped(oWord.getText());
